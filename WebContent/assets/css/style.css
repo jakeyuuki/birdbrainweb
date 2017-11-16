@@ -5,3 +5,11 @@ body {
 	margin: 0 auto;
 	max-width: 20000px;
 }
+#logobox {
+	text-align: right;
+}
+#infobox {
+	background-color: #0b4e70;
+	width: 100%;
+	height: 200px;
+}
